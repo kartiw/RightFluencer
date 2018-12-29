@@ -3,10 +3,10 @@ import json
 import pandas as pd
 
 # Access credentials obtained from https://apps.twitter.com/app/14516752/keys
-consumer_key = 'aMi2tyW2jE3zG2EUkf0GOg8uQ'
-consumer_secret = 'uRpLY2In02z50zL18W736iDWkgRmo18quSSbpfecPxBVSHZ0pW'
-access_token = '30427118-DEcNQWA4QUlKfTjAfR635Oa4qWoTWrd5jSERn37Sd'
-access_token_secret = 'Q5ynHitpqZfY3QCZVcGAzv8qG1pIucrwMLs46ygBoC4FJ'
+consumer_key = 'XX'
+consumer_secret = 'XX'
+access_token = 'XX'
+access_token_secret = 'XX'
 
 # Modify file path as required
 file_path = '/Users/manojkarthick/Documents/Spring-18/CMPT-733/Project/influencers-project/data/influencer_list.csv'

@@ -11,8 +11,8 @@ from watson_developer_cloud import PersonalityInsightsV3
 
 personality_insights = PersonalityInsightsV3(
     version='2016-10-20',
-    username='c59002e3-ebf9-4570-97df-346e0d4cbbf1',
-    password='Gs4YW57sLp2s')
+    username='XX',
+    password='XX')
 
 with open('profile.txt') as \
         profile_json:

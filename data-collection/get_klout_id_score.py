@@ -1,6 +1,6 @@
 from klout import Klout
 
-api_key = 'qzcujyjgy7b554kw9htud9ny'
+api_key = 'XX'
 k = Klout(api_key, secure=True)
 
 def get_handle(url):

@@ -15,7 +15,7 @@ if not os.path.exists(outdir):
     os.mkdir(outdir)
 
 
-token = "EAAcSYjNVPtcBAKqBYh7xGoXy0KcAHaSKbi5QmhBnf6ctMacdQUHdxn2jCYSdzqu5XQzOi3ZAjd57SwdkQZCrtG2e1cesYtQb2PmaMejCc3dZCc2P72BmPWFWAZBDKZA8zb7ZCNy19GWTibtiZAdCanSqmrqEqwR80YnZBBniwdeWgwZDZD"
+token = "XX"
 
 
 #gets user posts with captions and image links, plus other meta infromation and user profile info

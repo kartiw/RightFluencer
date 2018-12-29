@@ -42,7 +42,7 @@ class bcolors:
 
 max_video_count = 100 # how many videos you want to process from this channel
 results_per_page = 50 # pagination - how many video responses per page [0,50]
-API_KEY = 'AIzaSyCLfn-5_GkQwxDlbua6SBRdV9CA1nul5W0'
+API_KEY = 'XX'
 export_folder = ''
 
 search_api_url = 'https://www.googleapis.com/youtube/v3/search?part=snippet\

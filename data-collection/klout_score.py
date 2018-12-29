@@ -10,7 +10,7 @@ from klout import *
 
 def get_score(twitter_handle):
     
-    key = 'qzcujyjgy7b554kw9htud9ny'
+    key = 'XX'
     
     # Make the Klout object
     k = Klout(key, secure=True)

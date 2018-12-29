@@ -2,10 +2,10 @@ import tweepy
 import json
 
 # Access credentials obtained from https://apps.twitter.com/app/14516752/keys
-consumer_key = 'aMi2tyW2jE3zG2EUkf0GOg8uQ'
-consumer_secret = 'uRpLY2In02z50zL18W736iDWkgRmo18quSSbpfecPxBVSHZ0pW'
-access_token = '30427118-DEcNQWA4QUlKfTjAfR635Oa4qWoTWrd5jSERn37Sd'
-access_token_secret = 'Q5ynHitpqZfY3QCZVcGAzv8qG1pIucrwMLs46ygBoC4FJ'
+consumer_key = 'X'
+consumer_secret = 'X'
+access_token = 'X'
+access_token_secret = 'X'
 
 # OAuth process, using the keys and tokens
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
